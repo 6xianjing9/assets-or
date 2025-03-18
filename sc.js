@@ -1,3 +1,4 @@
+  <script>
     /* ========= UTILITAS ========= */
     // Fungsi untuk mendapatkan waktu relatif (misal "1 menit yang lalu")
     function getRelativeTime(timeStamp) {
@@ -212,3 +213,4 @@
         }, 2000);
       }
     });
+  </script>
